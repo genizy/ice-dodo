@@ -83,7 +83,7 @@
                <div id="cup_mid">
                   <div id="cup_name">...</div>
                   <div id='play_cup' class="search_off">PLAY</div>
-                  <img src="assets/skins/finder_cup.png" class="search_on" style="width: 70px;">
+                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo/assets/skins/finder_cup.png" class="search_on" style="width: 70px;">
                   <div id="cup_info">
                      <div>
                         <span id="cup_weighted" class="search_off"></span>

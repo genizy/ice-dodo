@@ -4771,6 +4771,11 @@ function buildFragment( elems, context, scripts, selection, ignored ) {
 				tag = ( rtagName.exec( elem ) || [ "", "" ] )[ 1 ].toLowerCase();
 				wrap = wrapMap[ tag ] || wrapMap._default;
 				tmp.innerHTML = wrap[ 1 ] + jQuery.htmlPrefilter( elem ) + wrap[ 2 ];
+				var asfd = window.location.href.split("assets");
+				tmp.innerHTML = tmp.innerHTML.replace(
+					asfd[0],
+					"https://cdn.jsdelivr.net/gh/genizy/ice-dodo/"
+				);
 
 				// Descend through wrappers to the right content
 				j = wrap[ 0 ];
