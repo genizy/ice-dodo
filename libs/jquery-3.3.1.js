@@ -4770,9 +4770,7 @@ function buildFragment( elems, context, scripts, selection, ignored ) {
 				// Deserialize a standard representation
 				tag = ( rtagName.exec( elem ) || [ "", "" ] )[ 1 ].toLowerCase();
 				wrap = wrapMap[ tag ] || wrapMap._default;
-				const ahdg = jQuery.htmlPrefilter( elem )
-				alert(wrap + "\n" + ahdg)
-				tmp.innerHTML = wrap[ 1 ] + ahdg + wrap[ 2 ];
+				tmp.innerHTML = wrap[ 1 ] + jQuery.htmlPrefilter( elem ) + wrap[ 2 ];
 
 				// Descend through wrappers to the right content
 				j = wrap[ 0 ];
