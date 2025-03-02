@@ -11,11 +11,11 @@
       <meta name="keywords" content="Ice Dodo, icedodo, Onionfist, 3d game, slope">
       <meta name="author" content="Seojoon Yeon">
       <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/libs/jquery-3.3.1.js"></script>
-      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/css/world.css">
-      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/css/screen.css">
-      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/css/popup.css">
-      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/css/tabs.css">
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/libs/jquery-3.3.1.js"></script>
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/css/world.css">
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/css/screen.css">
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/css/popup.css">
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/css/tabs.css">
    </head>
    <body>
       <div id="inner_loading">
@@ -83,7 +83,7 @@
                <div id="cup_mid">
                   <div id="cup_name">...</div>
                   <div id='play_cup' class="search_off">PLAY</div>
-                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/assets/skins/finder_cup.png" class="search_on" style="width: 70px;">
+                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/assets/skins/finder_cup.png" class="search_on" style="width: 70px;">
                   <div id="cup_info">
                      <div>
                         <span id="cup_weighted" class="search_off"></span>
@@ -112,7 +112,7 @@
             </div>
             <div id="duck_container">
                <a id="duck" href="https://iceparty.io" target="_blank">
-               <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/assets/icons/duck.png">
+               <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/assets/icons/duck.png">
                </a>
             </div>
             <div class="search_on" id="search_container">
@@ -132,16 +132,16 @@
                <h1 class="subt">New maps sneak-peek</h1>
                <div id="social_icons">
                   <a href="https://discord.gg/S8kZjgb" target="_blank">
-                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/assets/social_icons/discord.svg">
+                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/assets/social_icons/discord.svg">
                   </a>
                   <a href="https://www.instagram.com/onionfist/" target="_blank">
-                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/assets/social_icons/instagram.svg">
+                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/assets/social_icons/instagram.svg">
                   </a>
                   <a href="https://www.facebook.com/onionfist" target="_blank">
-                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/assets/social_icons/facebook.svg">
+                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/assets/social_icons/facebook.svg">
                   </a>
                   <a href="https://twitter.com/onion_fist" target="_blank">
-                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/assets/social_icons/twitter.svg">
+                  <img src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/assets/social_icons/twitter.svg">
                   </a>
                </div>
                <br>
@@ -271,10 +271,10 @@
          <source src="" id="audiosource">
       </audio>
       <audio controls id = "sound_level_complete">
-         <source src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/assets/sounds/level_complete.wav" type="audio/wav">
+         <source src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/assets/sounds/level_complete.wav" type="audio/wav">
       </audio>
       <audio controls id = "sound_die">
-         <source src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/assets/sounds/die.wav" type="audio/wav">
+         <source src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/assets/sounds/die.wav" type="audio/wav">
       </audio>
       <div class='tab' id="cups_tab" style="visibility: hidden; position: absolute; z-index: -10;">
          <p class="title" id="list_cups_title"></p>
@@ -388,38 +388,38 @@
          <div id="locked_skins">
          </div>
       </div>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/libs/babylon.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/cup_info.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/map_info.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/skin_info.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/deployment.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/sync.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/popup.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/audio.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/fov.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/size.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/news.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/change_state.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/leaderboard.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/controls.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/decorations.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/guardian.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/loader.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/maker.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/alias.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/const_controller.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/settings.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/scorekeeper.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/cleanup.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/start.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/update.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/flyjump.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/stats.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/screen.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/tabs.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/ads.js"></script>
-      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/boot.js"></script>
-      <script defer type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@329d8fd899466b964419b4b9bce1bf596c806a4a/js/testing_mode.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/libs/babylon.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/cup_info.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/map_info.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/skin_info.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/deployment.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/sync.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/popup.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/audio.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/fov.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/size.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/news.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/change_state.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/leaderboard.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/controls.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/decorations.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/guardian.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/loader.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/maker.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/alias.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/const_controller.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/settings.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/scorekeeper.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/cleanup.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/start.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/update.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/flyjump.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/stats.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/screen.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/tabs.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/ads.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/boot.js"></script>
+      <script defer type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo@19f1d3de6eac11d2bb5f1d9f27090fb4af300df9/js/testing_mode.js"></script>
    </body>
 </html>  ]]>
 </Content>
