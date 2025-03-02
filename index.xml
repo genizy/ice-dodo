@@ -1,3 +1,7 @@
+<Module>
+<ModulePrefs title="ice dodo"/>
+<Content type="html">
+<![CDATA[
 <!DOCTYPE html>
 <html>
    <head>
@@ -417,4 +421,6 @@
       <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo/js/boot.js"></script>
       <script defer type="text/javascript" src="https://cdn.jsdelivr.net/gh/genizy/ice-dodo/js/testing_mode.js"></script>
    </body>
-</html>
+</html>  ]]>
+</Content>
+</Module>
